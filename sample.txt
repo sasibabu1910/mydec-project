@@ -1,0 +1,6 @@
+hello all
+iam a git repositry 
+create in local repo
+stored in central repo
+thank you
+
